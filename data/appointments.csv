@@ -1,0 +1,93 @@
+appointment_id,patient_id,department,appointment_date,status
+A001,P005,Cardiology,2026-07-13,Completed
+A002,P033,Orthopedics,2026-07-06,Cancelled
+A003,P014,Dermatology,2026-06-17,Cancelled
+A004,P016,General Medicine,2026-07-23,Completed
+A005,P007,Cardiology,2026-07-26,Scheduled
+A006,P028,General Medicine,2026-07-30,Completed
+A007,P044,Cardiology,2026-06-08,Cancelled
+A008,P047,Neurology,2026-06-14,Completed
+A009,P013,Orthopedics,2026-08-08,Cancelled
+A010,P009,General Medicine,2026-06-24,Scheduled
+A011,P030,Orthopedics,2026-06-10,Cancelled
+A012,P036,Cardiology,2026-06-07,Completed
+A013,P006,Orthopedics,2026-06-22,Cancelled
+A014,P032,General Medicine,2026-06-28,Cancelled
+A015,P004,Orthopedics,2026-07-19,Completed
+A016,P025,Neurology,2026-07-29,Scheduled
+A017,P028,Dermatology,2026-08-02,Completed
+A018,P013,Neurology,2026-06-28,Completed
+A019,P038,Dermatology,2026-06-08,Scheduled
+A020,P004,Cardiology,2026-08-14,Cancelled
+A021,P033,Dermatology,2026-06-21,Completed
+A022,P033,Cardiology,2026-06-24,Completed
+A023,P039,Cardiology,2026-07-01,Cancelled
+A024,P008,Dermatology,2026-07-02,Completed
+A025,P040,Cardiology,2026-07-24,Scheduled
+A026,P017,Orthopedics,2026-07-11,Completed
+A027,P017,General Medicine,2026-06-17,Scheduled
+A028,P030,Neurology,2026-06-10,Completed
+A029,P030,Dermatology,2026-08-12,Completed
+A030,P005,Dermatology,2026-06-28,Scheduled
+A031,P009,Neurology,2026-06-09,Completed
+A032,P024,Neurology,2026-06-21,Cancelled
+A033,P035,Neurology,2026-08-18,Completed
+A034,P043,Dermatology,2026-07-09,Completed
+A035,P009,Neurology,2026-06-15,Completed
+A036,P048,Dermatology,2026-06-20,Scheduled
+A037,P019,Dermatology,2026-06-27,Scheduled
+A038,P014,Neurology,2026-08-04,Cancelled
+A039,P017,Cardiology,2026-06-12,Cancelled
+A040,P018,Cardiology,2026-06-01,Scheduled
+A041,P050,Orthopedics,2026-07-04,Completed
+A042,P048,General Medicine,2026-08-10,Cancelled
+A043,P036,Cardiology,2026-06-15,Completed
+A044,P045,Orthopedics,2026-08-09,Completed
+A045,P024,Dermatology,2026-08-10,Completed
+A046,P028,Orthopedics,2026-06-06,Scheduled
+A047,P024,Cardiology,2026-07-16,Completed
+A048,P044,Orthopedics,2026-06-14,Scheduled
+A049,P050,Dermatology,2026-07-23,Completed
+A050,P016,Orthopedics,2026-06-23,Cancelled
+A051,P002,Orthopedics,2026-07-13,Cancelled
+A052,P043,Orthopedics,2026-07-05,Completed
+A053,P045,Cardiology,2026-07-19,Completed
+A054,P031,Orthopedics,2026-06-26,Cancelled
+A055,P023,Neurology,2026-06-30,Completed
+A056,P002,Orthopedics,2026-07-22,Scheduled
+A057,P018,Cardiology,2026-07-06,Scheduled
+A058,P042,Dermatology,2026-07-22,Scheduled
+A059,P002,Cardiology,2026-07-04,Completed
+A060,P038,Neurology,2026-06-05,Completed
+A061,P039,General Medicine,2026-07-15,Scheduled
+A062,P028,Dermatology,2026-08-05,Completed
+A063,P025,Dermatology,2026-06-25,Scheduled
+A064,P003,General Medicine,2026-06-01,Completed
+A065,P024,General Medicine,2026-06-09,Scheduled
+A066,P040,Neurology,2026-06-16,Scheduled
+A067,P033,Neurology,2026-07-23,Scheduled
+A068,P026,Neurology,2026-08-10,Completed
+A069,P013,General Medicine,2026-07-19,Completed
+A070,P040,Dermatology,2026-07-09,Cancelled
+A071,P036,Cardiology,2026-07-09,Scheduled
+A072,P014,General Medicine,2026-08-14,Scheduled
+A073,P030,General Medicine,2026-07-27,Completed
+A074,P033,General Medicine,2026-06-22,Completed
+A075,P019,Dermatology,2026-08-19,Scheduled
+A076,P006,Orthopedics,2026-07-10,Completed
+A077,P013,Orthopedics,2026-06-04,Completed
+A078,P016,General Medicine,2026-08-18,Completed
+A079,P030,General Medicine,2026-08-20,Completed
+A080,P046,General Medicine,2026-08-03,Cancelled
+A081,P016,Orthopedics,2026-06-01,Completed
+A082,P050,General Medicine,2026-06-29,Completed
+A083,P045,Dermatology,2026-07-30,Completed
+A084,P036,Orthopedics,2026-06-16,Cancelled
+A085,P009,General Medicine,2026-08-07,Scheduled
+A086,P049,General Medicine,2026-08-18,Cancelled
+A087,P036,General Medicine,2026-06-21,Cancelled
+A088,P029,Neurology,2026-07-02,Scheduled
+A089,P050,Dermatology,2026-08-02,Completed
+A090,P018,General Medicine,2026-06-10,Scheduled
+A004,P016,General Medicine,2026-07-23,Completed
+A013,P999,Orthopedics,2026-06-22,Cancelled
